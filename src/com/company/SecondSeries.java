@@ -23,6 +23,8 @@ public class SecondSeries {
 
 
         sc.close();
+        // added new comment
+
 }
 
 }
